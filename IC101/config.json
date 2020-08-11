@@ -1,0 +1,27 @@
+{
+  "DisplayName": "import1",
+  "Parameters": {
+    "param1": "value1",
+    "param2": "value2"
+  },
+  "DataSource": {
+    "DisplayName": "DataSource1",
+    "ObjectFactoryName": "ObjectFactoryName1",
+    "Parameters": {
+      "param1": "value1",
+      "param2": "value2"
+    },
+    "Instance": {}
+  },
+  "DataAddins": [
+    {
+      "DisplayName": "Addin1",
+      "ObjectFactoryName": "ObjectFactoryName1",
+      "Parameters": {
+        "param1": "value1",
+        "param2": "value2"
+      },
+      "Instance": {}
+    }
+  ]
+}
